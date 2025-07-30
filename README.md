@@ -33,7 +33,7 @@ A simple and interactive typing speed tester built with HTML, CSS, and JavaScrip
 
 ## Preview
 
-![Preview](demo-screenshot.jpg)
+![Preview](demo-screenshot.png)
 
 ---
 
