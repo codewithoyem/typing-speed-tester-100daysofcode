@@ -16,6 +16,7 @@ A simple and interactive typing speed tester built with HTML, CSS, and JavaScrip
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Contact](#contact)
+  - [License](#license)
 
 ---
 
@@ -46,7 +47,7 @@ A simple and interactive typing speed tester built with HTML, CSS, and JavaScrip
 
 ## Live Demo
 
--[Live Demo](https://typing-speed-tester-16388.web.app/).
+-[Live Demo](https://codewithoyem.github.io/typing-speed-tester-100daysofcode/).
 
 ---
 
@@ -55,7 +56,7 @@ A simple and interactive typing speed tester built with HTML, CSS, and JavaScrip
 1. **Clone the repo**  
 
    ```bash
-   git clone https://github.com/codewithoyem/digital_clock-100daysofcode.git
+   git clone https://github.com/codewithoyem/typing-speed-tester-100daysofcode.git
    cd digital-clock-dark-mode
    ```
 
@@ -84,6 +85,8 @@ Feel free to contribute to this project by submitting issues or pull requests.
 If you have any questions or need further assistance, please contact me at [oyem@crisent.com](mailto:oyem@crisent.com).
 
 ---
+
+## License
 
 This project is created by [Oluwayemi](https://github.com/codewithoyem) and is available for use under the [MIT License](https://opensource.org/licenses/MIT).
 
